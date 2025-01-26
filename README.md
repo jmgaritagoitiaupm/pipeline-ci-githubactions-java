@@ -1,3 +1,5 @@
+[![Build and test of Java Project](https://github.com/jmgaritagoitiaupm/pipeline-ci-githubactions-java/actions/workflows/main.yml/badge.svg)](https://github.com/jmgaritagoitiaupm/pipeline-ci-githubactions-java/actions/workflows/main.yml)
+
 # Pipeline de Integración Continua con GitHub Actions
 
 Repositorio para el laboratorio de CI con GitHub Actions
@@ -12,4 +14,4 @@ https://www.adictosaltrabajo.com/2020/10/28/introduccion-a-github-actions-sintax
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[![Build and test of Java Project](https://github.com/jmgaritagoitiaupm/pipeline-ci-githubactions-java/actions/workflows/main.yml/badge.svg)](https://github.com/jmgaritagoitiaupm/pipeline-ci-githubactions-java/actions/workflows/main.yml)
+
